@@ -1,0 +1,76 @@
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\bin\Debug\Student management.exe.config
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\bin\Debug\Student management.exe
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\bin\Debug\Student management.pdb
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.AddCourse.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.AddStudent.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.adminmenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.AvCourses.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.CourseDetails.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.EditData.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.Form1.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.loginStudent.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.loginAdmin.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.Properties.Resources.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.Registeration.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.StudentMenu.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.ViewAllCourses.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.ViewCourses.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.ViewStudentinCourse.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student management.csproj.GenerateResource.Cache
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student management.exe
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student management.pdb
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student management.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.AdminEdit.resources
+C:\Users\Sherif\Documents\Visual Studio 2015\Projects\Student management\Student management\obj\Debug\Student_management.Feedback.resources
+H:\Student management\Student management\bin\Debug\Student management.exe.config
+H:\Student management\Student management\obj\Debug\Student management.exe
+H:\Student management\Student management\obj\Debug\Student management.pdb
+H:\Student management\Student management\bin\Debug\Student management.exe
+H:\Student management\Student management\bin\Debug\Student management.pdb
+H:\Student management\Student management\obj\Debug\Student management.csprojResolveAssemblyReference.cache
+H:\Student management\Student management\obj\Debug\Student_management.AddCourse.resources
+H:\Student management\Student management\obj\Debug\Student_management.AddStudent.resources
+H:\Student management\Student management\obj\Debug\Student_management.AdminEdit.resources
+H:\Student management\Student management\obj\Debug\Student_management.adminmenu.resources
+H:\Student management\Student management\obj\Debug\Student_management.AvCourses.resources
+H:\Student management\Student management\obj\Debug\Student_management.CourseDetails.resources
+H:\Student management\Student management\obj\Debug\Student_management.EditData.resources
+H:\Student management\Student management\obj\Debug\Student_management.Feedback.resources
+H:\Student management\Student management\obj\Debug\Student_management.Form1.resources
+H:\Student management\Student management\obj\Debug\Student_management.loginStudent.resources
+H:\Student management\Student management\obj\Debug\Student_management.loginAdmin.resources
+H:\Student management\Student management\obj\Debug\Student_management.Properties.Resources.resources
+H:\Student management\Student management\obj\Debug\Student_management.Registeration.resources
+H:\Student management\Student management\obj\Debug\Student_management.StudentMenu.resources
+H:\Student management\Student management\obj\Debug\Student_management.ViewAllCourses.resources
+H:\Student management\Student management\obj\Debug\Student_management.ViewCourses.resources
+H:\Student management\Student management\obj\Debug\Student_management.ViewStudentinCourse.resources
+H:\Student management\Student management\obj\Debug\Student management.csproj.GenerateResource.Cache
+C:\Users\Sherif\Desktop\Student management\Student management\bin\Debug\Student management.exe.config
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student management.exe
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student management.pdb
+C:\Users\Sherif\Desktop\Student management\Student management\bin\Debug\Student management.exe
+C:\Users\Sherif\Desktop\Student management\Student management\bin\Debug\Student management.pdb
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student management.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.AddCourse.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.AddStudent.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.AdminEdit.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.adminmenu.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.AvCourses.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.CourseDetails.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.EditData.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.Feedback.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.Form1.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.loginStudent.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.loginAdmin.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.Properties.Resources.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.Registeration.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.StudentMenu.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.ViewAllCourses.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.ViewCourses.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.ViewStudentinCourse.resources
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student management.csproj.GenerateResource.Cache
+C:\Users\Sherif\Desktop\Student management\Student management\obj\Debug\Student_management.Loading.resources
+D:\Gam3aa\3rd Semester\Data Structure\Project\Student management\Student management\bin\Debug\Student management.exe.config
+D:\Gam3aa\3rd Semester\Data Structure\Project\Student management\Student management\obj\Debug\Student management.exe
+D:\Gam3aa\3rd Semester\Data Structure\Project\Student management\Student management\obj\Debug\Student management.pdb
